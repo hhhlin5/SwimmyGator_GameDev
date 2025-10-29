@@ -1,3 +1,5 @@
+![Game Screenshot](screenshot.png)
+
 # Overview
    "Swimmy Gator" is a 2D side-scrolling game developed using a custom-built Gator engine. Players control a gator character by pressing the spacebar on the keyboard,
    navigating through an underwater environment while avoiding various obstacles. As the game progresses, the gator swims faster, making it increasingly challenging
